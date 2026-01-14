@@ -82,6 +82,9 @@ p {
 #proyecto-8{
     background-image: url('assets/PaseoCiudad.jpg');
 }
+#proyecto-9{
+    background-image: url('assets/PGO.jpg');
+}
 /* Esta sirve para que los textos se vean */
 .text-shadow-1 {
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
@@ -89,4 +92,5 @@ p {
 
 .texto-gigante{
     font-size: 80px;
+
 }
