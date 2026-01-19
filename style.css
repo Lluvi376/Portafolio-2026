@@ -88,6 +88,9 @@ p {
 #proyecto-10{
     background-image: url('assets/DetrasC02.jpg');
 }
+#proyecto-11{
+    background-image: url('assets/Busqueda.jpeg');
+}
 /* Esta sirve para que los textos se vean */
 .text-shadow-1 {
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
@@ -97,4 +100,5 @@ p {
     font-size: 80px;
 
 }
+
 
